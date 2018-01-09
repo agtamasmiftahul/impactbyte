@@ -1,7 +1,0 @@
-Latihan Git
-
-Ini adalah latihan git pertama
-
-Ini adalah kalimat kedua
-
-Ini adalah kalimat ketiga
