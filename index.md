@@ -5,5 +5,3 @@
 *Ini adalah latihan Git juga*
 
 **Lagi coba git**
-
-*Ini selanjutnya*
